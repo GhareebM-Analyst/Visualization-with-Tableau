@@ -1,1 +1,2 @@
 # Visualization-with-Tableau
+Database created in [SQL-covid 19 data project](https://github.com/GhareebM-Analyst/SQL-covid-19-data) was used to calculate monthly total number of cases, total deaths, fatality rate (proportion of people who die from infection with covid-19), and mortality rate (number of deaths/million of population) for each country. Aggregated data was used to construct visualization in Tableau.
